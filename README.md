@@ -67,20 +67,13 @@ and gets very close to Apple's numbers.
 
 |Model|kg CO2e|kg CO2e w/o use|Source|
 |---|---|---|---|
-|XPS 13 9370|297|260.17|[Dell
-CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-9370.pdf)|
-|XPS 15 9560|337|265.22|[Dell
-CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-9560.pdf?newtab=true)|
-|XPS 15 9570|324|266|[Dell
-CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-15-9570.pdf)|
-|Latitude 7280|222|187.81|[Dell
-CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7280.pdf?newtab=true)|
-|Latitude 7390|**222**|**187.81**|[Dell
-CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7390.pdf?newtab=true)|
-|Latitude 7490|241|210.63|[Dell
-CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7390.pdf?newtab=true)|
+|XPS 13 9370|297|260.17|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-9370.pdf)|
+|XPS 15 9560|337|265.22|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-9560.pdf?newtab=true)|
+|XPS 15 9570|324|266|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-15-9570.pdf)|
+|Latitude 7280|222|187.81|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7280.pdf?newtab=true)|
+|Latitude 7390|**222**|**187.81**|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7390.pdf?newtab=true)|
+|Latitude 7490|241|210.63|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7390.pdf?newtab=true)|
 |Precision 5530|340|285.59|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-precision-5530.pdf?newtab=true)|
-|Precision 7720|416|319.9|[Dell
-CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-precision-7720.pdf?newtab=true)|
+|Precision 7720|416|319.9|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-precision-7720.pdf?newtab=true)|
 
 
