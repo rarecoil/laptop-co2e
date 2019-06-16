@@ -47,3 +47,34 @@ Note the four-year lifespan of these. **These Apple products are virtually nonre
 |Macbook Air 13" (Retina, Thunderbolt)|**176**|**165.44**|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_oct2018.pdf)|
 |Macbook Pro 13" (Skylake and newer)|222|184.26|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_may2019.pdf)|
 |Macbook Pro 15" (Skylake and newer)|334|263.86|[Apple](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_PER_may2019.pdf)|
+
+
+## Dell
+
+Dell does not produce as many carbon footprint sheets, but does for
+some specific models.
+
+The Latitude 7280/7390 has the best footprint, at 187.81 without use and
+222 with use included. This may be the best all-around deal, because the
+Latitude series is relatively repairable, reliable being business-class,
+and gets very close to Apple's numbers.
+
+|Model|kg CO2e|kg CO2e w/o use|Source|
+|---|---|---|---|
+|XPS 13 9370|297|260.17|[Dell
+CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-9370.pdf)|
+|XPS 15 9560|337|265.22|[Dell
+CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-9560.pdf?newtab=true)|
+|XPS 15 9570|324|266|[Dell
+CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-xps-15-9570.pdf)|
+|Latitude 7280|222|187.81|[Dell
+CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7280.pdf?newtab=true)|
+|Latitude 7390|**222**|**187.81**|[Dell
+CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7390.pdf?newtab=true)|
+|Latitude 7490|241|210.63|[Dell
+CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-latitude-7390.pdf?newtab=true)|
+|Precision 5530|340|285.59|[Dell CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-precision-5530.pdf?newtab=true)|
+|Precision 7720|416|319.9|[Dell
+CFA](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-precision-7720.pdf?newtab=true)|
+
+
