@@ -6,6 +6,12 @@ This is a list of carbon footprints compiled from various sources for common lap
 
 **kg CO2e w/o use** is the total footprint of the device to make it and send it to you. If your electricity sources are carbon-neutral, this number is the one that matters.
 
+## tl;dr
+
+Apple is the best. If you want a PC, Dell's small Latitude 7000s
+are nearly as good. If you need some iGPU power, choose the Thinkpad
+A285.
+
 ## Lenovo Thinkpad
 
 Without use included, the best Thinkpad in this list is the Thinkpad A285, with 225.28 kg CO2e. If you want Intel (or Thunderbolt 3), your choice is the Thinkpad X280, with 257.18 kg CO2e for a newer one; the X250 is a little better at 256.88.
