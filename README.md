@@ -10,7 +10,7 @@ This is a list of carbon footprints compiled from various sources for common lap
 
 Apple is the best. If you want a PC, Dell's small Latitude 7000s
 are nearly as good. If you need some iGPU power, choose the Thinkpad
-A285.
+X395 for its integrated Vega graphics.
 
 ## Lenovo Thinkpad
 
