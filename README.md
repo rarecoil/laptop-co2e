@@ -59,8 +59,11 @@ Note the four-year lifespan of these. **These Apple products are virtually nonre
 |Macbook 12"|233|205.04|[Apple](https://www.apple.com/environment/pdf/products/notebooks/12-inch_MacBook_PER_oct2018.pdf)|
 |Macbook Air 13" (Non-Retina)|339|294.93|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_June2017.pdf)|
 |Macbook Air 13" (Retina, Thunderbolt)|**176**|**165.44**|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_oct2018.pdf)|
+|Macbook Air 13" (Retina, 2019)|**176**|166.04|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_June2019.pdf)|
 |Macbook Pro 13" (Skylake and newer)|222|184.26|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_may2019.pdf)|
 |Macbook Pro 15" (Skylake and newer)|334|263.86|[Apple](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_PER_may2019.pdf)|
+|Macbook Pro 13" (2019)|210|198.11|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf)|
+|Macbook Pro 16" (2019)|394|331.09|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBookPro_PER_Nov2019.pdf)|
 
 
 ## Dell
