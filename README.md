@@ -8,7 +8,7 @@ This is a list of carbon footprints compiled from various sources for common lap
 
 ### Laptop footprints, in perspective
 
-Aside from the outlier X270, the worst laptop on this list is the (outlier) Thinkpad P52 at 693 kg CO2e over a four-year lifespan. [A single cheeseburger has a carbon footprint of about 4.35 kg CO2e](http://www.openthefuture.com/cheeseburger_CF.html). Buying a P52 is the same cost as eating 159 cheeseburgers over the course of that four years - or eating a single cheeseburger every 1.3 weeks. There is a reason why environmentalists push vehicle emissions first and animal agriculture second - the cost of eating _red meat_ is substantially worse than even other meat options. It is good to minimise carbon emissions wherever you can, but remember that driving less and avoiding beef consumption will drastically outweigh your laptop purchasing choices in terms of carbon footprint.
+Aside from the outlier X270, the worst laptop on this list is the Thinkpad P52 at 693 kg CO2e over a four-year lifespan. [A single cheeseburger has a carbon footprint of about 4.35 kg CO2e](http://www.openthefuture.com/cheeseburger_CF.html). Buying a P52 is the same cost as eating 159 cheeseburgers over the course of that four years - or eating a single cheeseburger every 1.3 weeks. There is a reason why environmentalists push vehicle emissions first and animal agriculture second - the cost of eating _red meat_ is substantially worse than even other meat options. It is good to minimise carbon emissions wherever you can, but remember that driving less and avoiding beef consumption will drastically outweigh your laptop purchasing choices in terms of carbon footprint.
  
 
 ## tl;dr
