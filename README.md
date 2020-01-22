@@ -9,11 +9,15 @@ This is a list of carbon footprints compiled from various sources for common lap
 ### Laptop footprints, in perspective
 
 Aside from the outlier X270, the worst laptop on this list is the Thinkpad P52 at 693 kg CO2e over a four-year lifespan. [A single cheeseburger has a carbon footprint of about 4.35 kg CO2e](http://www.openthefuture.com/cheeseburger_CF.html). Buying a P52 is the same cost as eating 159 cheeseburgers over the course of that four years - or eating a single cheeseburger every 1.3 weeks. There is a reason why environmentalists push vehicle emissions first and animal agriculture second - the cost of eating _red meat_ is substantially worse than even other meat options. It is good to minimise carbon emissions wherever you can, but remember that driving less and avoiding beef consumption will drastically outweigh your laptop purchasing choices in terms of carbon footprint.
+
+Note that organisations do play with these numbers a bit, because the science to calculate these is relatively inexact. Lenovo reports the 95th percentile worst-case as their footprints in the data sheet; some other organizations will quote the median +/- a specific value. Use this as a guide, and read the attached documents for more information.
  
 
 ## tl;dr
 
 Microsoft's Surface series beats Apple. If you can use Windows 10 Pro, the Surface series has the lowest overall manufacturing footprint in the CSR reports. Apple is a close second, with Lenovo coming in last place. Note that the Microsoft and Apple laptops are not repairable. Let's all be happy that the Thinkpad X270 is no longer in production - each one cost the world 0.8 MT CO2e.
+
+Chromebooks may be an option for you when using [Crostini](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md), but make sure that the device you buy supports the Linux container functionality before purchasing. Support is getting better as of 2019 but some devices (e.g. Skylake-based devices) still do not have Crostini support at the time of this writing.
 
 ## Apple
 
@@ -32,6 +36,30 @@ Note the four-year lifespan of these. **These Apple products are virtually nonre
 |Macbook Pro 13" (2019)|210|198.11|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf)|
 |Macbook Pro 16" (2019)|394|331.09|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBookPro_PER_Nov2019.pdf)|
 
+## Chromebooks
+
+Chromebook product carbon footprints vary widely. In order to normalise the numbers, the 95th percentile number is quoted where appropriate in this table (as Lenovo and HP both report). Note that HP's data is generally pretty bad; the 95th percentile is far off from their expected range so they are likely over-reported in this table.
+
+I cannot locate Acer's carbon footprint calculations; they talk about environmental responsibility in a PR-like page and the data for the old Chromebook C740 is included, so I have added it to this list.
+
+|Model|kg CO2e|kg CO2e w/o use|Source|
+|---|---|---|---|
+|Acer Chromebook C740|123.70|81.679|[Press Release](https://www.acer-group.com/sustainability/en/energy-climate-change.html)|
+|Google Pixelbook|200.6|126.5|[Google PER](https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/MAR2018_PRODUCT-REPORTS/Pixelbook_ProductEnvironmentalReport.pdf)|
+|HP Chromebook 11 G7 Education Edition|275|&approx;257&dagger;|[HP Report](http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/productdata/Countries/_MultiCountry/productcarbonfootprint_notebo_2019416223433906.pdf)|
+|HP Chromebook Enterprise 14A G5|295|&approx;260&dagger;|[HP Report](http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/productdata/Countries/_MultiCountry/productcarbonfootprint_notebo_20191010233353436.pdf)|
+|HP Chromebook Enterprise x360 14E G1|505*|&approx;475&dagger;|[HP Report](http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/productdata/Countries/_MultiCountry/productcarbonfootprint_notebo_20191021223117676.pdf)|
+|HP Chromebook x360 11 G2 Education Edition|745*|&approx;715&dagger;|[HP Report](http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/productdata/Countries/_MultiCountry/productcarbonfootprint_notebo_2019412224038116.pdf)|
+|HP Chromebook x360 14 G1|305|&approx;272.5&dagger;|[HP Report](http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/productdata/Countries/_MultiCountry/productcarbonfootprint_notebo_201924225842986.pdf)|
+|Lenovo YOGA Chromebook C630|293|187.52|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/eco-declaration/PCF_YOGA_Chromebook_C630.pdf)|
+|Lenovo 100e Chromebook (2nd Gen)|303|236.34|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/PCF_Chromebook_100e_2nd_Gen.pdf)|
+|Lenovo 300e Chromebook (2nd Gen)|305|237.9|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/PCF_Chromebook_300e_2nd_Gen.pdf)|
+|Lenovo 500e Chromebook (2nd Gen)|303|236.34|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/PCF_Chromebook_500e_2nd_Gen.pdf)|
+|Lenovo 14e Chromebook|368|272.32|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/PCF_Lenovo_14e_Chromebook.pdf)|
+
+\* The data for this Chromebook has extreme outliers in estimation. Please see the report for more info.
+
+&dagger; HP does not give percentages for use; this is done by trying to approximate the average from the plots displayed without adjacent data.
 
 ## Dell
 
