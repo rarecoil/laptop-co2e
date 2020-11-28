@@ -98,6 +98,8 @@ With use included, the best Thinkpad in this list is the X395, with 286 kg CO2e 
 |Thinkpad A275|511|352.59|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-A275.pdf)|
 |Thinkpad A285|352|**225.28**|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-A285.pdf)|
 |Thinkpad A485|419|272.35|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-A485.pdf)|
+|Thinkpad E14 2nd Gen|349|N/A&dagger;|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/eco-declaration/pcf-thinkpad-e14-2nd.pdf)|
+|Thinkpad L14|593|N/A&dagger;|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/eco-declaration/pcf-thinkpad-l14.pdf)|
 |Thinkpad L380|406|328.86|[Lenovo PCF](https://www.lenovo.com/us/en/social_responsibility/PCF-ThinkPad-L380-S2-Yoga-3rd.pdf)|
 |Thinkpad L480|455|318.5|[Lenovo PCF](https://www.lenovo.com/us/en/social_responsibility/PCF-ThinkPad-L480.pdf)|
 |Thinkpad L490|499|394.21|[Lenovo PCF](https://www.lenovo.com/us/en/pdf/social_responsibility/PCF_ThinkPad_L490.pdf)|
@@ -105,10 +107,14 @@ With use included, the best Thinkpad in this list is the X395, with 286 kg CO2e 
 |Thinkpad P52|693|540.54|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-P52.pdf)|
 |Thinkpad P72|610|469.7|[Lenovo PCF](https://www.lenovo.com/us/en/social_responsibility/PCF_ThinkPad_P72.pdf)|
 |Thinkpad P73|611|403.25|[Lenovo PCF](https://www.lenovo.com/us/en/pdf/social_responsibility/PCF_ThinkPad_P73.pdf)|
+|Thinkpad T14 AMD|361|N/A&dagger;|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/eco-declaration/pcf-thinkpad-t14-amd.pdf)|
 |Thinkpad X1 Carbon 4th Gen|457|370.17|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-X1-Carbon-4th.pdf)|
 |Thinkpad X1 Carbon 5th Gen|369|306.27|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-X1-Carbon-5th.pdf)|
 |Thinkpad X1 Carbon 6th Gen|333|279.71|[Lenovo PCF](https://www.lenovo.com/us/en/social_responsibility/PCF-ThinkPad-X1-Carbon-6th.pdf)|
 |Thinkpad X1 Carbon 7th Gen|461|401.07|[Lenovo PCF](https://www.lenovo.com/us/en/pdf/social_responsibility/PCF_ThinkPad_X1_Carbon_X1_Carbon_LTE_7th.pdf)|
+|Thinkpad X1 Extreme|477|400.68|[Lenovo PCF](https://www.lenovo.com/us/en/social_responsibility/PCF_ThinkPad_P1_X1_Extreme.pdf)|
+|Thinkpad X1 Extreme (P1) Gen 2|497|422.45|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/eco-declaration/2019/PCF_ThinkPad_P1_X1_Extreme_2nd.pdf)|
+|Thinkpad X13|313|N/A&dagger;|[Lenovo PCF](https://static.lenovo.com/ww/docs/regulatory/eco-declaration/pcf-thinkpad-x13.pdf)|
 |Thinkpad X250|338|256.88|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-X250.pdf)|
 |Thinkpad X260|489|400.98|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-X260.pdf)|
 |Thinkpad X270|851.68|766.51|[Lenovo PCF](https://www.lenovo.com/medias/PCF-ThinkPad-X270.pdf)|
