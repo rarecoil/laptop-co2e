@@ -11,7 +11,7 @@ This is a list of carbon footprints compiled from various sources for common lap
 Aside from the outlier X270, the worst laptop on this list is the Thinkpad P52 at 693 kg CO2e over a four-year lifespan. [A single cheeseburger has a carbon footprint of about 4.35 kg CO2e](http://www.openthefuture.com/cheeseburger_CF.html). Buying a P52 is the same cost as eating 159 cheeseburgers over the course of that four years - or eating a single cheeseburger every 1.3 weeks. There is a reason why environmentalists push vehicle emissions first and animal agriculture second - the cost of eating _red meat_ is substantially worse than even other meat options. It is good to minimise carbon emissions wherever you can, but remember that driving less and avoiding beef consumption will drastically outweigh your laptop purchasing choices in terms of carbon footprint.
 
 Note that organisations do play with these numbers a bit, because the science to calculate these is relatively inexact. Lenovo reports the 95th percentile worst-case as their footprints in the data sheet; some other organizations will quote the median +/- a specific value. Use this as a guide, and read the attached documents for more information.
- 
+
 
 ## tl;dr
 
@@ -29,14 +29,25 @@ Note the four-year lifespan of these. **These Apple products are virtually nonre
 |---|---|---|---|
 |Macbook 12"|233|205.04|[Apple](https://www.apple.com/environment/pdf/products/notebooks/12-inch_MacBook_PER_oct2018.pdf)|
 |Macbook Air 13" (Non-Retina)|339|294.93|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_June2017.pdf)|
-|Macbook Air 13" (Retina, Thunderbolt)|**176**|165.44|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_oct2018.pdf)|
-|Macbook Air 13" (Retina, 2019)|**176**|166.04|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_June2019.pdf)|
+|Macbook Air 13" (Retina, Thunderbolt)|176|165.44|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_oct2018.pdf)|
+|Macbook Air 13" (Retina, 2019)|176|166.04|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_w_Retina_PER_June2019.pdf)|
+|Macbook Air 13" M1 (2020) 256GB SSD|**161**|**136.85**|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf)|
+|Macbook Air 13" M1 (2020) 512GB SSD|181|153.85|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf)|
+|Macbook Air 13" Intel (2020) 256GB SSD|170|144.5|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf)|
+|Macbook Air 13" Intel (2020) 512GB SSD|198|168.3|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf)|
 |Macbook Pro 13" (Skylake and newer)|222|184.26|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_may2019.pdf)|
 |Macbook Pro 15" (Skylake and newer)|334|263.86|[Apple](https://www.apple.com/environment/pdf/products/notebooks/15-inch_MacBookPro_PER_may2019.pdf)|
 |Macbook Pro 13" (2019)|210|198.11|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf)|
 |Macbook Pro 16" (2019)|394|331.09|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBookPro_PER_Nov2019.pdf)|
-|Macbook Pro 13" M1 (2020) 256GB SSD|185|**149.85***|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf)|
+|Macbook Pro 13" M1 (2020) 256GB SSD|185|149.85*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf)|
 |Macbook Pro 13" M1 (2020) 512GB SSD|207|167.67*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_Nov2020.pdf)|
+|Macbook Pro 14" M1 Pro (2021) 256GB SSD|271|211.38*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2021.pdf)|
+|Macbook Pro 14" M1 Pro (2021) 512GB SSD|307|239.46*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2021.pdf)|
+|Macbook Pro 14" Intel (2021) 256GB SSD|252|196.56*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2021.pdf)|
+|Macbook Pro 14" Intel (2021) 512GB SSD|300|234*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2021.pdf)|
+|Macbook Pro 16" M1 Pro (2021) 512GB SSD|349|254.77*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)|
+|Macbook Pro 16" M1 Pro (2021) 1TB SSD|382|278.86*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)|
+|Macbook Pro 16" M1 Max (2021) 1TB SSD|395|288.35*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)|
 
 \* Apple does not change the "use" proportion for any 2020 MacBook Pro, so the M1 uses the same amount of energy as the Intel variants.
 
@@ -132,7 +143,7 @@ With use included, the best Thinkpad in this list is the X395, with 286 kg CO2e 
 
 ## Microsoft
 
-My girlfriend recently asked me what the carbon footprint of the Surface devices is, and I did not know. Microsoft makes this easy and [provides eco profiles for download](https://www.microsoft.com/en-us/download/details.aspx?id=55974). This is a list of all Surface hardware included in that download as of 25 November 2019.
+My girlfriend recently asked me what the carbon footprint of the Surface devices is, and I did not know. Microsoft makes this easy and [provides eco profiles for download](https://www.microsoft.com/en-us/download/details.aspx?id=55974). This is a list of all Surface hardware included in that download as of 18 November 2021.
 
 It is important to note that the Surface Pro/Go numbers are _just for the device_. The keyboard is considered an accessory and there is an associated manufacturing footprint that is not accounted for there. Microsoft's eco profiles even list the exact specs of the machines they are using for calculations. Note that while the Surface Go is definitely the lowest in this list, it's not really a developer-friendly laptop.
 
@@ -141,17 +152,26 @@ The same nonrepairability warning that goes into the Apple products holds true f
 |Model|kg CO2e|kg CO2e w/o use|Source|
 |---|---|---|---|
 |Surface Go|93.8|66.97|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Go 2|107|80|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Go 3|106|86|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
 |Surface Pro X|130|86|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
-|Surface Pro (4th Gen)|149|108.77|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
-|Surface Pro (5th Gen)|121|87.241|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
-|Surface Pro (6th Gen)|121|87.8|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
-|Surface Pro (6th Gen)|121|87.8|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Pro 4|149|108.77|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Pro 5|121|87.241|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Pro 6|121|87.8|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Pro 7|164|133|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Pro 7+|181|153|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Pro 8|141|118|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
 |Surface Book|225|173.25|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
 |Surface Book 2 (13.5 inch)|183|134.13|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
 |Surface Book 2 (15 inch)|232|179.57|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Book 3 (13.5 inch)|303|256|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Book 3 (15 inch)|421|368|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
 |Surface Laptop|152|119.16|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
-|Surface Laptop 2|**152**|**119.16**|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
-
-
-
-
+|Surface Laptop 2|152|119.16|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Laptop 3 (Alcantara, 13.5 inch)|**127**|**100**|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Laptop 3 (Metal, 13.5 inch)|138|112|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Laptop 3 (Alcantara, 15 inch)|178|140|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Laptop 3 (Metal, 15 inch)|181|143|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Laptop 4 (Alcantara, 13.5 inch)|145|123|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Laptop 4 (Metal, 13.5 inch)|165|143|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+|Surface Laptop 4 (Metal, 15 inch)|199|177|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
