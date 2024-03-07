@@ -70,11 +70,6 @@ As a general guide, Apple posts its environmental updates and content on a secti
 |Macbook Air 15" M3 (2024) 256GB SSD|158|115.34 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/M3_MacBook_Air_PER_March2024.pdf)|
 
 
-
-
-|Macbook Pro 16" M1 Max (2022) 1TB SSD|395|288.35*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)|
-
-
 \* Apple does not change the "use" proportion for any 2020 MacBook Pro, so the M1 uses the same amount of energy as the Intel variants.
 
 \*\* Derived values from Apple Documentation
