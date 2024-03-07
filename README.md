@@ -25,6 +25,8 @@ Macs have insanely low carbon footprints compared to respective Lenovo models. T
 
 Note the four-year lifespan of these. **These Apple products are virtually nonrepairable**, so the lifetime of them will likely be much less than a Thinkpad or Latitude. Keep that in mind - most of the footprint is up front with the laptop's manufacture. If you are keeping it for a long time, you're probably better off with the Thinkpad.
 
+As a general guide, Apple posts its environmental updates and content on a section of their website here for [ENVIRONMENTAL](https://www.apple.com/environment/) data.  As of 2024 03 06, there is an updated [2023 environmental impact report](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2023.pdf) that is quite thourough. If for some reason the content in this file is stale, please do go to the [ENVIRONMENTAL](https://www.apple.com/environment/) site to look for updated content. 
+
 |Model|kg CO2e|kg CO2e w/o use|Source|
 |---|---|---|---|
 |Macbook 12"|233|205.04|[Apple](https://www.apple.com/environment/pdf/products/notebooks/12-inch_MacBook_PER_oct2018.pdf)|
@@ -48,8 +50,29 @@ Note the four-year lifespan of these. **These Apple products are virtually nonre
 |Macbook Pro 16" M1 Pro (2021) 512GB SSD|349|254.77*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)|
 |Macbook Pro 16" M1 Pro (2021) 1TB SSD|382|278.86*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)|
 |Macbook Pro 16" M1 Max (2021) 1TB SSD|395|288.35*|[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2021.pdf)|
+|Macbook Air M2 (2022) 256GB SSD|147|114.66 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/M2_MacBook_Air_PER_June2022.pdf)|
+|Macbook Air M2 (2022) 512GB SSD|171|133.38 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/M2_MacBook_Air_PER_June2022.pdf)|
+|Macbook Pro 13" M2 (2022) 256GB SSD|167|133.6 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBook_Pro_PER_June2022.pdf)|
+|Macbook Pro 13" M2 (2022) 512GB SSD|182|145.6 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/13-inch_MacBook_Pro_PER_June2022.pdf)|
+|Macbook Pro 14" M2 Pro (2023) 512GB SSD|243|194.4 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Jan2023.pdf)|
+|Macbook Pro 14" M2 Pro (2023) 1TB SSD|272|217.6 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Jan2023.pdf)|
+|Macbook Pro 14" M2 Max (2023) 1TB SSD|301|240.8 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Jan2023.pdf)|
+|Macbook Pro 16" M2 Pro (2023) 512GB SSD|300|225 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Jan2023.pdf)|
+|Macbook Pro 16" M2 Pro (2023) 1TB SSD|327|245.25 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Jan2023.pdf)|
+|Macbook Pro 16" M2 Max (2023) 1TB SSD|356|267 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Jan2023.pdf)|
+|Macbook Air 15" M2 (2023) 256GB SSD|139|108.42 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/MacBook_Air_15-inch_PER_June2023.pdf)|
+|Macbook Air 15" M2 (2023) 512GB SSD|152|118.56 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/MacBook_Air_15-inch_PER_June2023.pdf)|
+|Macbook Pro 16" M3 Pro (2023) 512GB SSD|290|214.6 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2023.pdf)|
+|Macbook Pro 16" M3 Max (2023) 1TB SSD|348|271.44 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/16-inch_MacBook_Pro_PER_Oct2023.pdf)|
+|Macbook Pro 14" M3 (2023) 512GB SSD|202|165.64 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2023.pdf)|
+|Macbook Pro 14" M3 Pro (2023) 512GB SSD|235|183.3 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/14-inch_MacBook_Pro_PER_Oct2023.pdf)|
+|Macbook Air 13" M3 (2024) 256GB SSD|135|109.35 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/M3_MacBook_Air_PER_March2024.pdf)|
+|Macbook Air 15" M3 (2024) 256GB SSD|158|115.34 \*\* |[Apple](https://www.apple.com/environment/pdf/products/notebooks/M3_MacBook_Air_PER_March2024.pdf)|
+
 
 \* Apple does not change the "use" proportion for any 2020 MacBook Pro, so the M1 uses the same amount of energy as the Intel variants.
+
+\*\* Derived values from Apple Documentation
 
 ## Chromebooks
 
@@ -175,3 +198,11 @@ The same nonrepairability warning that goes into the Apple products holds true f
 |Surface Laptop 4 (Alcantara, 13.5 inch)|145|123|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
 |Surface Laptop 4 (Metal, 13.5 inch)|165|143|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
 |Surface Laptop 4 (Metal, 15 inch)|199|177|[Eco Profiles](https://www.microsoft.com/en-us/download/details.aspx?id=55974)|
+
+
+## HP
+
+Hewlett-Packard (HP) now has a [PRODUCT CARBON FOOTPRINT](https://h20195.www2.hp.com/v2/library.aspx?doctype=95&footer=95&filter_doctype=no&showregionfacet=yes&filter_country=no&cc=us&lc=en&filter_oid=no&filter_prodtype=rw&prodtype=ij&showproductcompatibility=yes&showregion=yes&showreglangcol=yes&showdescription=yes%23doctype-95&sortorder-popular&teasers-off&isRetired-false&isRHParentNode-false&titleCheck-false#doctype-95&sortorder-popular&teasers-off&isRetired-false&isRHParentNode-false&titleCheck-false) site where you can look up specific models of their equipment to get environmental related content. 
+
+If for some reason it moves, just do a web search for "Product Carbon Footprint hp.com"
+
